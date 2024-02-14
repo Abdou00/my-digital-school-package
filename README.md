@@ -5,6 +5,10 @@ Cloner le répertoire avec la commande suivante:
 ```bash
 git clone https://github.com/Abdou00/my-digital-school.git
 ```
+ou 
+```bash
+npm install --save my-digital-school-package
+```
 
 ## Usage
 
