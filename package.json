@@ -1,7 +1,7 @@
 {
   "name": "my-digital-school-package",
   "version": "1.0.0",
-  "description": "Package de démarrage de la \"My Digital School\"",
+  "description": "Package de démarrage de la \"My Digital School\" pour ces étudiants afin d'avoir à disposition des rappels des notions fondamentales & importantes de la programmation.",
   "main": "index.js",
   "directories": {
     "test": "test"
